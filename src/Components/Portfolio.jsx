@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Casanova Exchange",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Implemented an Ethiopian Commodity Exchange, Users can buy and sell commodities such as coffee.",
+    url: "https://github.com/EtsubFikreab/CasanovaExchange",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Process Scheduling",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Implemented algorithms that are used for scheduling process for operating systems.",
+    url: "https://github.com/EtsubFikreab/ProcessScheduling/tree/master",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/EtsubFikreab/super-duper-palm-tree",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Grade Calculator",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Since my school doesnt have a public Student Record System, I couldn't keep track of my grades, so I created an app that tracks my grades",
+    url: "https://github.com/EtsubFikreab/GradeCalculator",
   },
 ];
 

@@ -24,18 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Computer Science student studying at HiLCoE. I enjoy creating unique and simplistic software in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Software Development",
+  "System Design",
+  "Problem Solving",
+  "Multiple Programming languages",
   "Graphic design",
 ];
 
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Greetings! I'm Etsub, a passionate individual with a love for technology and a penchant for continuous learning. My journey includes leadership roles as the Google Developer Students Club Lead and a Microsoft Learn Ambassador in Ethiopia, where I've honed my skills in communication, collaboration, and project management. With a keen interest in emerging technologies, I've explored software development, logistics technology, and blockchain, leveraging my roles to bridge the gap between technical complexities and user understanding. My commitment to excellence, quick learning, and effective leadership positions me as an asset in dynamic and fast-paced environments. Currently exploring the vast realm of blockchain, I aim to contribute my skills and enthusiasm to innovative projects. This journey reflects my belief that technology has the power to create positive change, a belief that I carry into every endeavor. Join me on this exciting venture, where technology meets creativity, and together, we can make an impact! ";
 
 const About = () => {
   return (
